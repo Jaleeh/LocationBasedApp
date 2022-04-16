@@ -25,7 +25,7 @@ To setup the development environment, please follow the guide [here](https://rea
 
 ### Clone repo
 ```cmd
-git clone https://github.com/Amine-ounn/ASEGP2
+https://github.com/Jaleeh/LocationBasedApp.git
 ```
 
 ### Install packages
